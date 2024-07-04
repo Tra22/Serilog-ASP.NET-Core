@@ -1,6 +1,6 @@
 # Using Log in ASP.NET Core
 
-ASP.NET Core Project for learning. Every one should be able to use this templae to build a ASP .NET Core web API with global exception handler.
+ASP.NET Core Project for learning. Every one should be able to use this templae to build a ASP .NET Core web API with SerialLog for logging.
 
 ### Key Functions
 
